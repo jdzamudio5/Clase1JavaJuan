@@ -8,3 +8,5 @@ S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+T
+$src/main/java/org/exercise/Main.java,1\c\1c1aa48fff47de674d84f4f12dd6ffdbd77c58d3
