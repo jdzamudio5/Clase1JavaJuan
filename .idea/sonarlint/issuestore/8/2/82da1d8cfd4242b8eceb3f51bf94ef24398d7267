@@ -1,0 +1,13 @@
+
+
+java:S1854">Remove this useless assignment to local variable "helloWord2".(ì†“”üÿÿÿÿJ$ea8fe077-323e-451f-ba38-71b1a1544d24
+k	java:S106"+Replace this use of System.out by a logger.(»ø¡€ıÿÿÿÿJ$d641a8dd-1719-4b8d-89a1-f9683bb80b93
+f	java:S106"+Replace this use of System.out by a logger.(ïĞJ$46fde744-03a9-4751-a66b-a9e703030a90
+k	java:S106"+Replace this use of System.out by a logger.(Ù‘„öúÿÿÿÿJ$b22e525d-7b01-494a-a7f8-629b15fa46c9
+n
+java:S1135"2Complete the task associated to this TODO comment.(ïĞJ$ec58c02c-5ecb-4a30-aae9-4ea05e2d3e7c
+k	java:S106
+"+Replace this use of System.out by a logger.(šØéÔøÿÿÿÿJ$050ff4c7-0691-4e03-9f35-d2382cf4e0c5
+p
+java:S1481"/Remove this unused "helloWord2" local variable.(ì†“”üÿÿÿÿJ$6c14b6a5-f249-49f7-a421-9944566029c4
+f	java:S106"+Replace this use of System.out by a logger.(ˆï–ãJ$80827a78-5151-4219-9c9b-727e605d8c56

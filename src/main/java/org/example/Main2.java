@@ -8,12 +8,7 @@ public class Main2 {
         System.out.println(helloWord.toUpperCase());// lo convierte a mayúscula
         int a=5;
         System.out.println(helloWord.indexOf("mi"));//Indica la posición de lo que estoy buscando
-        String helloWord2="y voy muy bien ";
-        System.out.println(helloWord.concat(Integer.toString(a)));//concatenemos y hacemos un casteo de Int a String
-
-
-
-
-
+        String helloWord2="y voy muy bien";
+        System.out.println(helloWord.concat(Integer.toString(a)));//concatenamos y hacemos un casteo de Int a String
     }
 }
