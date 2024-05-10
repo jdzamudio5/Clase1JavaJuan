@@ -11,7 +11,7 @@ public class Main {
         } else if (semaforo.toLowerCase().equals("rojo")) {
             System.out.println("Deténgase");
         }else {
-            System.out.println("Error, vuelva a intentarlo");
+            System.out.println("Error, vuelva a intentarlo!");
         }
     }
 }
