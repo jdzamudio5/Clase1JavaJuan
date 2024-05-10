@@ -12,10 +12,10 @@ public class Main {
 
         if (edad>15 & edad<18){
             System.out.println("Puede ingresar a la zona familiar");
-        } else if (edad>=18 & edad<=25) {
+        } else if (edad>=18 & edad<=24) {
             System.out.println("Puede ingresar a la zona rosa");
 
-        } else if (edad>25) {
+        } else if (edad>24) {
             System.out.println("Puede ingresar a la zona VIP");
 
         }else {
