@@ -10,3 +10,5 @@ S
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 T
 $src/main/java/org/exercise/Main.java,1\c\1c1aa48fff47de674d84f4f12dd6ffdbd77c58d3
+Y
+)src/main/java/org/condicionales/Main.java,c\5\c5509975dd084f72a268baa4bcb0ae579135430b
