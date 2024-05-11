@@ -29,7 +29,7 @@ public class Restos {
                 System.out.println("La resta es "+(num1-num2));
                 break;
             case "*":
-                System.out.println("La multiplacación es "+(num1*num2));
+                System.out.println("La multiplicación es "+(num1*num2));
                 break;
             case "/":
                 if (num2 !=0){
